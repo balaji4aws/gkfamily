@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <meta name="theme-color" content="#2f6fb0">
+  <title>GK Kistappa Family</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="bar">
+      <h1>GK Kistappa Family</h1>
+      <span id="editBadge"></span>
+      <button id="gearBtn" title="Editing setup">⚙</button>
+    </div>
+    <div class="searchwrap">
+      <input id="searchBox" type="search" placeholder="Search a name or place…" autocomplete="off">
+      <div id="results"></div>
+    </div>
+  </header>
+
+  <!-- FOCUS VIEW (default, mobile-first) -->
+  <main id="focus">
+    <nav id="crumbs"></nav>
+    <div id="parentRow"></div>
+    <div id="centerWrap"></div>
+    <div id="childrenHead"></div>
+    <div id="childrenRow"></div>
+  </main>
+
+  <!-- OVERVIEW CHART (full tree, zoomable) -->
+  <section id="overview" hidden>
+    <div id="viewport"><div id="tree" class="tree"></div></div>
+    <div id="zoombar">
+      <button id="zout" title="Zoom out">−</button>
+      <button id="zin" title="Zoom in">+</button>
+    </div>
+  </section>
+
+  <!-- BOTTOM NAV -->
+  <nav id="tabbar">
+    <button id="tabFocus" class="active">👤<span>Person</span></button>
+    <button id="tabOverview">🌳<span>Whole tree</span></button>
+    <button id="addBtn" style="display:none">➕<span>Add child</span></button>
+    <button id="editBtn">✏️<span>Set up editing</span></button>
+  </nav>
+
+  <div id="overlay" class="overlay">
+    <div class="modal"><div id="modalBody"></div></div>
+  </div>
+  <div id="status"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>

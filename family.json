@@ -1,0 +1,2322 @@
+[
+  {
+    "id": "p1",
+    "parentId": null,
+    "name": "GK Kistappa",
+    "gender": "male",
+    "photo": "img/Founder.jpg",
+    "spouseName": "Seethamma",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p2",
+    "parentId": "p1",
+    "name": "Venkoba Rao",
+    "gender": "male",
+    "photo": "img/Venkobarao.png",
+    "spouseName": "Narasamma",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p3",
+    "parentId": "p2",
+    "name": "Padmavathi",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p4",
+    "parentId": "p2",
+    "name": "Srinivasa Rao",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Lakshmi Devi",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p5",
+    "parentId": "p4",
+    "name": "Krishna murthy",
+    "gender": "male",
+    "photo": "img/kampdukirshnamurthy.png",
+    "spouseName": "Saroja",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p6",
+    "parentId": "p5",
+    "name": "Vikram Karanam",
+    "gender": "male",
+    "photo": "img/vikramkaranam.png",
+    "spouseName": "Lakshmitha",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p7",
+    "parentId": "p6",
+    "name": "Anagha",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p8",
+    "parentId": "p5",
+    "name": "Sandhya",
+    "gender": "female",
+    "photo": "img/sandhyarani.png",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p9",
+    "parentId": "p5",
+    "name": "Soumya",
+    "gender": "female",
+    "photo": "img/soumya.png",
+    "spouseName": "Shashank Hebbani",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p10",
+    "parentId": "p9",
+    "name": "Siddarth",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p11",
+    "parentId": "p4",
+    "name": "Ragamma",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "Rajgopal Rao",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p12",
+    "parentId": "p11",
+    "name": "Shamala",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p13",
+    "parentId": "p4",
+    "name": "Sakuntalamma",
+    "gender": "female",
+    "photo": "img/kampadushakutala.png",
+    "spouseName": "Rama Rao",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p14",
+    "parentId": "p13",
+    "name": "Raghavendra Rao",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p15",
+    "parentId": "p13",
+    "name": "Gowri",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p16",
+    "parentId": "p13",
+    "name": "Prahalladha",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p17",
+    "parentId": "p4",
+    "name": "Krishna murthy",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Prabhavati",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p18",
+    "parentId": "p17",
+    "name": "Sreelakshmi",
+    "gender": "female",
+    "photo": "img/shrilakshmi.png",
+    "spouseName": "Guruprasad",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p19",
+    "parentId": "p17",
+    "name": "Sripada",
+    "gender": "male",
+    "photo": "img/sripada.png",
+    "spouseName": "Sridevi",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p20",
+    "parentId": "p19",
+    "name": "Ananya",
+    "gender": "female",
+    "photo": "img/ananya.png",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p21",
+    "parentId": "p2",
+    "name": "Gopal Rao",
+    "gender": "male",
+    "photo": "img/gopalrao.png",
+    "spouseName": "Tulasi",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p22",
+    "parentId": "p21",
+    "name": "Narayana Rao",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Lakshmi Devi",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p23",
+    "parentId": "p21",
+    "name": "Ramachandra Rao",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Sulochana",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p24",
+    "parentId": "p23",
+    "name": "Narasamma",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p25",
+    "parentId": "p23",
+    "name": "Susheela",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p26",
+    "parentId": "p23",
+    "name": "Venkata Narasimha Rao",
+    "gender": "male",
+    "photo": "img/venkatanarasimharao.png",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p27",
+    "parentId": "p26",
+    "name": "Uday Simha",
+    "gender": "male",
+    "photo": "img/udaysimha.png",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p28",
+    "parentId": "p26",
+    "name": "Narasimha Son2",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p29",
+    "parentId": "p23",
+    "name": "Parimala",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p30",
+    "parentId": "p21",
+    "name": "Krishna Murthy",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Parimala",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p31",
+    "parentId": "p30",
+    "name": "Vijaya Simha",
+    "gender": "male",
+    "photo": "img/vijayasimha.png",
+    "spouseName": "Varuni",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p32",
+    "parentId": "p31",
+    "name": "Amogh simha",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p33",
+    "parentId": "p31",
+    "name": "Akshara",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p34",
+    "parentId": "p30",
+    "name": "Radhika",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "Shrihari Joshi",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p35",
+    "parentId": "p34",
+    "name": "Avyukth",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p36",
+    "parentId": "p21",
+    "name": "Venkata Narasimha Murthy",
+    "gender": "male",
+    "photo": "img/venkatanarasimhamurthy.png",
+    "spouseName": "Nagamani",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p37",
+    "parentId": "p36",
+    "name": "Tulasi",
+    "gender": "female",
+    "photo": "img/tulasideshpande.png",
+    "spouseName": "Om Prakash Deshpande",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p38",
+    "parentId": "p37",
+    "name": "Pragati O Deshpande",
+    "gender": "female",
+    "photo": "img/pragatideshpande.png",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p39",
+    "parentId": "p36",
+    "name": "Leela",
+    "gender": "female",
+    "photo": "img/leelanagaraj.png",
+    "spouseName": "Shakti Nagaraju",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p40",
+    "parentId": "p39",
+    "name": "Sujay Bharadwaj",
+    "gender": "male",
+    "photo": "img/sujaybharadwaj.png",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p41",
+    "parentId": "p39",
+    "name": "Sannidhi Nagaraj",
+    "gender": "female",
+    "photo": "img/sannidhinagaraj.png",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p42",
+    "parentId": "p36",
+    "name": "Jaya simha",
+    "gender": "male",
+    "photo": "img/jayasimha.png",
+    "spouseName": "Mrudula",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p43",
+    "parentId": "p42",
+    "name": "Atharv Simha",
+    "gender": "male",
+    "photo": "img/athravsimha.png",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p44",
+    "parentId": "p2",
+    "name": "Bheemasena rao",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Narasamma",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p45",
+    "parentId": "p44",
+    "name": "Vijaya mohan",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Aruna",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p46",
+    "parentId": "p45",
+    "name": "Triveni",
+    "gender": "female",
+    "photo": "img/triveni.png",
+    "spouseName": "Gururaja Rao Alur",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p47",
+    "parentId": "p46",
+    "name": "Triveni Son1",
+    "gender": "male",
+    "photo": "img/trivenison1.png",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p48",
+    "parentId": "p46",
+    "name": "Triveni Son2",
+    "gender": "male",
+    "photo": "img/trivenison2.png",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p49",
+    "parentId": "p45",
+    "name": "Raghavendra",
+    "gender": "male",
+    "photo": "img/raghavendra.png",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p50",
+    "parentId": "p49",
+    "name": "Srinidhi",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p51",
+    "parentId": "p49",
+    "name": "Son 1",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p52",
+    "parentId": "p44",
+    "name": "Nirmala bai (Geetha)",
+    "gender": "female",
+    "photo": "img/nirmalabai.png",
+    "spouseName": "Giridhar",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p53",
+    "parentId": "p44",
+    "name": "Prahallad rao",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Hanumabhai",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p54",
+    "parentId": "p53",
+    "name": "Karthik",
+    "gender": "male",
+    "photo": "img/karthik.png",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p55",
+    "parentId": "p54",
+    "name": "Karthik Daughter",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p56",
+    "parentId": "p53",
+    "name": "Kishore",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p57",
+    "parentId": "p56",
+    "name": "Kishore Daughter",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p58",
+    "parentId": "p44",
+    "name": "Satyanarayana rao",
+    "gender": "male",
+    "photo": "img/sathyanarayanahyd.png",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p59",
+    "parentId": "p2",
+    "name": "Nageshwar Rao",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Vanaja",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p60",
+    "parentId": "p59",
+    "name": "Krishna Murthy",
+    "gender": "male",
+    "photo": "img/appa.png",
+    "spouseName": "Venkateswari",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p61",
+    "parentId": "p60",
+    "name": "Venkata Narasimha",
+    "gender": "male",
+    "photo": "img/Chinna.jpeg",
+    "spouseName": "Srilatha",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p62",
+    "parentId": "p61",
+    "name": "Poornaprajna",
+    "gender": "male",
+    "photo": "img/Paandu.jpg",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p63",
+    "parentId": "p61",
+    "name": "Samana",
+    "gender": "female",
+    "photo": "img/Chinnu.jpg",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p64",
+    "parentId": "p60",
+    "name": "Vikrama Simha",
+    "gender": "male",
+    "photo": "img/vikramasimha.png",
+    "spouseName": "Vaishnavi",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p65",
+    "parentId": "p64",
+    "name": "Vachaspathi",
+    "gender": "male",
+    "photo": "img/vachaspathi.png",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p66",
+    "parentId": "p64",
+    "name": "Vidyapathi",
+    "gender": "male",
+    "photo": "img/vidyapathi.png",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p67",
+    "parentId": "p59",
+    "name": "Surendar Rao",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Vasundhara",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p68",
+    "parentId": "p67",
+    "name": "Navya",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "Krishna Manohar",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p69",
+    "parentId": "p68",
+    "name": "Mukunda",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p70",
+    "parentId": "p67",
+    "name": "Pratap simha",
+    "gender": "male",
+    "photo": "img/pratapsimha.png",
+    "spouseName": "Pooja",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p71",
+    "parentId": "p70",
+    "name": "Ayan Simha",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p72",
+    "parentId": "p2",
+    "name": "Seeta (Radha bai)",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "Krishna Murthy",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p73",
+    "parentId": "p72",
+    "name": "Nirmala",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p74",
+    "parentId": "p72",
+    "name": "Muralidhar",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p75",
+    "parentId": "p72",
+    "name": "Sudarshan",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p76",
+    "parentId": "p72",
+    "name": "Geeta",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p77",
+    "parentId": "p72",
+    "name": "Srinath",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Madhavi",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p78",
+    "parentId": "p72",
+    "name": "Raghavendra",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p79",
+    "parentId": "p1",
+    "name": "Raghavendra rao",
+    "gender": "male",
+    "photo": "img/raghavendarrao.png",
+    "spouseName": "Tungamma",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p80",
+    "parentId": "p79",
+    "name": "Seethamma",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "Halvi Sathya Narayana Rao",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p81",
+    "parentId": "p80",
+    "name": "Krishna Murthy",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Radha",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p82",
+    "parentId": "p79",
+    "name": "Narayana rao",
+    "gender": "male",
+    "photo": "img/narayanarao.png",
+    "spouseName": "Savitri",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p83",
+    "parentId": "p82",
+    "name": "Lakshmidevi",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "Madhusudhan Rao",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p84",
+    "parentId": "p83",
+    "name": "Srikanth",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Smitha",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p85",
+    "parentId": "p83",
+    "name": "Lavanya",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p86",
+    "parentId": "p83",
+    "name": "Archana",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p87",
+    "parentId": "p82",
+    "name": "Krishna murthy",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Jaya lakshmi",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p88",
+    "parentId": "p87",
+    "name": "Guru Rajarao",
+    "gender": "male",
+    "photo": "img/gururajarao.png",
+    "spouseName": "Rajani",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p89",
+    "parentId": "p88",
+    "name": "Krishna vamshi",
+    "gender": "male",
+    "photo": "img/krishnavamsi.png",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p90",
+    "parentId": "p88",
+    "name": "Nandhini",
+    "gender": "female",
+    "photo": "img/nandhini.png",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p91",
+    "parentId": "p87",
+    "name": "Chinna",
+    "gender": "male",
+    "photo": "img/kiran.png",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p92",
+    "parentId": "p82",
+    "name": "Manorama",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "Pranesha",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p93",
+    "parentId": "p92",
+    "name": "Vara prasad",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Aparna",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p94",
+    "parentId": "p92",
+    "name": "Manorama Daughter 1",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p95",
+    "parentId": "p92",
+    "name": "Prashanti",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p96",
+    "parentId": "p82",
+    "name": "Janaki",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "Venkata Ramana Rao",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p97",
+    "parentId": "p96",
+    "name": "Manoj Kashyap",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p98",
+    "parentId": "p96",
+    "name": "Janakamma Son2",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p99",
+    "parentId": "p82",
+    "name": "Ram Mohan Rao",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Sravanti",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p100",
+    "parentId": "p99",
+    "name": "Naveen",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p101",
+    "parentId": "p99",
+    "name": "Dinesh",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Bhargavi",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p102",
+    "parentId": "p82",
+    "name": "Venkamma",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "Srinivas Rao",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p103",
+    "parentId": "p102",
+    "name": "Bhavani Shankar",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p104",
+    "parentId": "p102",
+    "name": "Pavan",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p105",
+    "parentId": "p79",
+    "name": "Hanumantha rao",
+    "gender": "male",
+    "photo": "img/hanumatharao.png",
+    "spouseName": "Subhadra",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p106",
+    "parentId": "p105",
+    "name": "Vijaya Lakshmi",
+    "gender": "female",
+    "photo": "img/Vijayalakshmi.png",
+    "spouseName": "Yoganandam",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p107",
+    "parentId": "p106",
+    "name": "Venkateswaramma",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "GK Krishna Murthy",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p108",
+    "parentId": "p105",
+    "name": "Venkata Ramana rao",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Parimala",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p109",
+    "parentId": "p108",
+    "name": "Kishore Bharadwaj",
+    "gender": "male",
+    "photo": "img/kishorebharadwaj.png",
+    "spouseName": "Bhargavi",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p110",
+    "parentId": "p109",
+    "name": "Sahana",
+    "gender": "female",
+    "photo": "img/sahana.png",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p111",
+    "parentId": "p109",
+    "name": "Srivatsa",
+    "gender": "male",
+    "photo": "img/srivatsa.png",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p112",
+    "parentId": "p108",
+    "name": "Satyamurthy",
+    "gender": "male",
+    "photo": "img/sathyamurthy.png",
+    "spouseName": "Manjari",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p113",
+    "parentId": "p112",
+    "name": "Vijaya Krishna",
+    "gender": "male",
+    "photo": "img/vijayakrishna.png",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p114",
+    "parentId": "p112",
+    "name": "Visvesha Krishna",
+    "gender": "male",
+    "photo": "img/visveshakrishna.png",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p115",
+    "parentId": "p105",
+    "name": "Nirmala devi",
+    "gender": "female",
+    "photo": "img/nirmaladevi.png",
+    "spouseName": "Ravi H",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p116",
+    "parentId": "p115",
+    "name": "Venkat Nagraj",
+    "gender": "male",
+    "photo": "img/venkatnagraj.png",
+    "spouseName": "Amrutha",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p117",
+    "parentId": "p105",
+    "name": "Radha rama mani",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "Ravi Kumar",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p118",
+    "parentId": "p105",
+    "name": "Raghavendara rao",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p119",
+    "parentId": "p79",
+    "name": "Sharada",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p120",
+    "parentId": "p119",
+    "name": "Sharada Son1",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p121",
+    "parentId": "p119",
+    "name": "Sharada Daughter1",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p122",
+    "parentId": "p79",
+    "name": "Srinivasa rao",
+    "gender": "male",
+    "photo": "img/srinivasarao.png",
+    "spouseName": "Indira",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p123",
+    "parentId": "p122",
+    "name": "Padmavathi",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "Bhaskar Rao",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p124",
+    "parentId": "p123",
+    "name": "Akhil",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p125",
+    "parentId": "p123",
+    "name": "Sammhitha",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p126",
+    "parentId": "p122",
+    "name": "Jayanti",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "Meghashyam",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p127",
+    "parentId": "p122",
+    "name": "Savitri",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "Pranesh Rao",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p128",
+    "parentId": "p122",
+    "name": "Raghavendar rao",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Rama",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p129",
+    "parentId": "p128",
+    "name": "Raghavendar rao Son1",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p130",
+    "parentId": "p128",
+    "name": "Raghavendar rao Son2",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p131",
+    "parentId": "p1",
+    "name": "Tirumala rao",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Janaki",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p132",
+    "parentId": "p131",
+    "name": "Radha bai",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "Gopinath Rao",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p133",
+    "parentId": "p132",
+    "name": "Vimala Bai",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p134",
+    "parentId": "p132",
+    "name": "Shama Rao",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p135",
+    "parentId": "p132",
+    "name": "Venkata Ramana Rao",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p136",
+    "parentId": "p132",
+    "name": "Sarojamma",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p137",
+    "parentId": "p132",
+    "name": "Vijaya Vittala Rao",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p138",
+    "parentId": "p132",
+    "name": "Hemalatha",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p139",
+    "parentId": "p131",
+    "name": "Venkata Ramana Rao",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Triveni",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p140",
+    "parentId": "p139",
+    "name": "Satya Murthy",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Lakshmi",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p141",
+    "parentId": "p140",
+    "name": "Tirumala Rao",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p142",
+    "parentId": "p139",
+    "name": "Gururaja Rao",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Hema",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p143",
+    "parentId": "p142",
+    "name": "Vinay",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p144",
+    "parentId": "p139",
+    "name": "Prahalada Rao",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Parimala",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p145",
+    "parentId": "p144",
+    "name": "Vijaya Lakshmi",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p146",
+    "parentId": "p145",
+    "name": "Vijaya Lakshmi Son1",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p147",
+    "parentId": "p144",
+    "name": "Ramakrishna",
+    "gender": "male",
+    "photo": "img/ramakrishna.png",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p148",
+    "parentId": "p147",
+    "name": "Ramakrishna Daughter",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p149",
+    "parentId": "p144",
+    "name": "Ashwin",
+    "gender": "male",
+    "photo": "img/aswinkumar.png",
+    "spouseName": "Sravani",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p150",
+    "parentId": "p149",
+    "name": "Sarvajna",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p151",
+    "parentId": "p149",
+    "name": "Ashwin Son2",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p152",
+    "parentId": "p139",
+    "name": "Jayashree",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p153",
+    "parentId": "p139",
+    "name": "Balaji Rao",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Vijayanthi",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p154",
+    "parentId": "p153",
+    "name": "Balaji Venkatesh",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p155",
+    "parentId": "p154",
+    "name": "Balaji Venkatesh Son1",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p156",
+    "parentId": "p153",
+    "name": "Monica",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p157",
+    "parentId": "p131",
+    "name": "Venkamma",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "Jagannatha Rao",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p158",
+    "parentId": "p157",
+    "name": "Hanumesha",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p159",
+    "parentId": "p131",
+    "name": "Lalithamma",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "Aija Raghavendra Achar",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p160",
+    "parentId": "p159",
+    "name": "Janaki bai",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p161",
+    "parentId": "p159",
+    "name": "Nagamani",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "Chapa Mohan",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p162",
+    "parentId": "p159",
+    "name": "Appanachar",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p163",
+    "parentId": "p159",
+    "name": "Lalithamma 3rd Daughter",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p164",
+    "parentId": "p131",
+    "name": "Keshava Rao",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Padmavathi",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p165",
+    "parentId": "p164",
+    "name": "Satyanarayana",
+    "gender": "male",
+    "photo": "img/sathyanarayana.png",
+    "spouseName": "Malathi",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p166",
+    "parentId": "p165",
+    "name": "Anirudh",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Gayatri",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p167",
+    "parentId": "p166",
+    "name": "Harsha Teertha",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p168",
+    "parentId": "p165",
+    "name": "Aditya",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p169",
+    "parentId": "p164",
+    "name": "Uma",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "Vijaya Vittal",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p170",
+    "parentId": "p169",
+    "name": "Pavan",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p171",
+    "parentId": "p169",
+    "name": "Sirisha",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p172",
+    "parentId": "p169",
+    "name": "Poornaprajna",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p173",
+    "parentId": "p169",
+    "name": "Sruthi",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p174",
+    "parentId": "p164",
+    "name": "Usha",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "Jagganatha Rao",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p175",
+    "parentId": "p174",
+    "name": "Anusha",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p176",
+    "parentId": "p164",
+    "name": "Sudhakar",
+    "gender": "male",
+    "photo": "img/sudhakar.png",
+    "spouseName": "Naga Kumari",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p177",
+    "parentId": "p176",
+    "name": "Gowri",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p178",
+    "parentId": "p176",
+    "name": "Vaishnavi",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p179",
+    "parentId": "p164",
+    "name": "Jaya Kumar",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Chaya Bhagavatho",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p180",
+    "parentId": "p179",
+    "name": "Prajna",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p181",
+    "parentId": "p179",
+    "name": "Tanmayee",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p182",
+    "parentId": "p131",
+    "name": "Krishna Murthy Rao",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Malathi",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p183",
+    "parentId": "p182",
+    "name": "Sailaja",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "Bheema Simha",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p184",
+    "parentId": "p182",
+    "name": "Jalaja",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "Raghavendar Rao",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p185",
+    "parentId": "p182",
+    "name": "Narayana",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Lakshmi",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p186",
+    "parentId": "p185",
+    "name": "Vaishnavi",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p187",
+    "parentId": "p182",
+    "name": "Ambuja",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "Gnaneshwar",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p188",
+    "parentId": "p131",
+    "name": "Gururaja Rao",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Kumuda",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p189",
+    "parentId": "p188",
+    "name": "Srinivas",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p190",
+    "parentId": "p188",
+    "name": "Rekha",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "Venugopal",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p191",
+    "parentId": "p188",
+    "name": "Sudha",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "Gururaja",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p192",
+    "parentId": "p131",
+    "name": "Seethamma",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p193",
+    "parentId": "p1",
+    "name": "Ramarao",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Seethamma",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p194",
+    "parentId": "p193",
+    "name": "Krishna Murthy",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Amrutha bai",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p195",
+    "parentId": "p194",
+    "name": "Tirumala Rao",
+    "gender": "male",
+    "photo": "img/tirumalarao.png",
+    "spouseName": "Lakshmi",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p196",
+    "parentId": "p195",
+    "name": "Vamsi Krishna",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Gayatri",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p197",
+    "parentId": "p196",
+    "name": "Vamsi Krishna Daughter",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "Gayatri",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p198",
+    "parentId": "p195",
+    "name": "Chitra",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "Rajesh",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p199",
+    "parentId": "p198",
+    "name": "Chitra Son 1",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p200",
+    "parentId": "p198",
+    "name": "Chitra Son 2",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p201",
+    "parentId": "p194",
+    "name": "Ravi Chandra",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Madhavi",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p202",
+    "parentId": "p201",
+    "name": "Anusha",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p203",
+    "parentId": "p201",
+    "name": "Sri Raghava",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p204",
+    "parentId": "p194",
+    "name": "Prakash",
+    "gender": "male",
+    "photo": "img/prakash.png",
+    "spouseName": "Vijaya Lakshmi",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p205",
+    "parentId": "p204",
+    "name": "Rashmi",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "Sampath Kumar",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p206",
+    "parentId": "p205",
+    "name": "Sri Madhav",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p207",
+    "parentId": "p204",
+    "name": "Achyuth",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p208",
+    "parentId": "p194",
+    "name": "Sudharani",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "Raghunath",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p209",
+    "parentId": "p208",
+    "name": "Harsha",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p210",
+    "parentId": "p194",
+    "name": "Padmaja",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "Siva kumar",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p211",
+    "parentId": "p210",
+    "name": "Padmaja Son1",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p212",
+    "parentId": "p210",
+    "name": "Padmaja Son2",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p213",
+    "parentId": "p193",
+    "name": "Seethamma",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p214",
+    "parentId": "p213",
+    "name": "Krishta Achar",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p215",
+    "parentId": "p213",
+    "name": "Ravindra",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p216",
+    "parentId": "p213",
+    "name": "Seethamma Daughter1",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "Venugopal",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p217",
+    "parentId": "p213",
+    "name": "Seethamma Daughter2",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "Gururaja",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p218",
+    "parentId": "p193",
+    "name": "Venkata Ramana Rao",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "Shakuntala",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p219",
+    "parentId": "p218",
+    "name": "Srinivasa Mohan",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p220",
+    "parentId": "p219",
+    "name": "Tripthi",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p221",
+    "parentId": "p219",
+    "name": "Mohan Son",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p222",
+    "parentId": "p218",
+    "name": "Ram Mohan",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p223",
+    "parentId": "p222",
+    "name": "Pranesh",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p224",
+    "parentId": "p218",
+    "name": "Kamala",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p225",
+    "parentId": "p224",
+    "name": "Kamala Daughter 1",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p226",
+    "parentId": "p224",
+    "name": "Kamala Daughter 2",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p227",
+    "parentId": "p218",
+    "name": "Subhadra",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p228",
+    "parentId": "p218",
+    "name": "Krishna Mohan",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p229",
+    "parentId": "p193",
+    "name": "Muralidhar",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p230",
+    "parentId": "p229",
+    "name": "Vijaya Lakshmi",
+    "gender": "female",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p231",
+    "parentId": "p229",
+    "name": "Sunitha",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  },
+  {
+    "id": "p232",
+    "parentId": "p229",
+    "name": "Narendra",
+    "gender": "male",
+    "photo": "",
+    "spouseName": "",
+    "location": "",
+    "phone": ""
+  }
+]
