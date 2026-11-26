@@ -153,6 +153,7 @@ function renderOverview() {
   roots.forEach(r => ul.appendChild(overviewNode(r)));
   tree.appendChild(ul);
   setZoom(zoom);
+  centerOverview();
 }
 function overviewNode(p) {
   const li = document.createElement("li");
@@ -171,7 +172,14 @@ function overviewNode(p) {
   }
   return li;
 }
-function setZoom(z) { zoom = Math.min(1.6, Math.max(0.3, z)); document.getElementById("tree").style.transform = "scale(" + zoom + ")"; }
+function setZoom(z) {
+  zoom = Math.min(1.6, Math.max(0.2, z));
+  document.getElementById("tree").style.zoom = zoom; // `zoom` resizes the layout box (so scrolling works), unlike transform:scale
+}
+function centerOverview() {
+  const vp = document.getElementById("viewport");
+  requestAnimationFrame(() => { vp.scrollLeft = (vp.scrollWidth - vp.clientWidth) / 2; vp.scrollTop = 0; });
+}
 
 /* ----------------------------- modes ------------------------------------- */
 function setMode(m) {
